@@ -1,0 +1,11 @@
+{
+  "features": [
+    {
+      "properties": {
+        "words": ["journey","sefer","sort","sorting","rota","filo","araç","rampa"],
+        "description": "If the word 'support' or 'incident' is included above, the incident owner team is mm-core.",
+        "incidentOwnerTeam":"mm-core"
+      }
+    }
+  ]
+}

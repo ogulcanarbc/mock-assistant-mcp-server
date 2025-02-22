@@ -1,0 +1,13 @@
+{
+  "features": [
+    {
+      "properties": {
+        "route": "Esenyurt SC - Ata Şube",
+        "deliveryCount": 150,
+        "bagCount": 50,
+        "deliveriesInBagCount": 3,
+        "totalDeliveryCount": 153
+      }
+    }
+  ]
+}

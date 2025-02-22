@@ -1,0 +1,18 @@
+{
+  "mappings": [
+    {
+      "request": {
+        "method": "GET",
+        "urlPathPattern": "/journey/SF2027019/deliveries"
+      },
+      "response": {
+        "headers": {
+          "Content-Type": "application/json; charset=UTF-8",
+          "Content-Encoding": "UTF-8"
+        },
+        "status": 200,
+        "bodyFileName": "deliveries_in_journey_response.json"
+      }
+    }
+  ]
+}
